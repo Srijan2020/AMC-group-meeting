@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --account=ucb269_asc3
+#SBATCH --account=ucb-general
 #SBATCH --partition=atesting
 #SBATCH --qos=testing
 #SBATCH --nodes=1
